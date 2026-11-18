@@ -1,0 +1,140 @@
+icao;nome;cidade;codigo_pais;pais;continente;latitude;longitude
+CYQM;Greater Moncton Roméo LeBlanc International Airport;Moncton;CA;Canada;NA;46.113189;-64.67719
+CYUL;Montreal / Pierre Elliott Trudeau International Airport;Montréal;CA;Canada;NA;45.467837;-73.742294
+CYYZ;Toronto Pearson International Airport;Toronto;CA;Canada;NA;43.675935;-79.629421
+DBBB;Cotonou Cadjehoun International Airport;Cotonou;BJ;Benin;AF;6.35723;2.38435
+DIAP;Félix-Houphouët-Boigny International Airport;Abidjan;CI;Côte d'Ivoire;AF;5.26139;-3.92629
+DNMM;Murtala Muhammed International Airport;Lagos;NG;Nigeria;AF;6.57737;3.32116
+EBBR;Brussels Airport;Zaventem;BE;Belgium;EU;50.901402;4.48444
+EBLG;Liège Airport;Grâce-Hollogne;BE;Belgium;EU;50.638574;5.443897
+EDDF;Frankfurt Main Airport;Frankfurt am Main;DE;Germany;EU;50.026706;8.55835
+EDDM;Munich Airport;Munich;DE;Germany;EU;48.353802;11.7861
+EDFH;Frankfurt-Hahn Airport;Frankfurt am Main (Lautzenhausen);DE;Germany;EU;49.946353;7.261734
+EGLL;London Heathrow Airport;London;GB;United Kingdom;EU;51.470748;-0.459909
+EHAM;Amsterdam Airport Schiphol;Amsterdam;NL;Netherlands;EU;52.308601;4.76389
+ELLX;Luxembourg-Findel International Airport;Luxembourg;LU;Luxembourg;EU;49.626845;6.212134
+FACT;Cape Town International Airport;Cape Town;ZA;South Africa;AF;-33.97403;18.604333
+FAOR;O.R. Tambo International Airport;Johannesburg;ZA;South Africa;AF;-26.140081;28.246801
+FBSK;Sir Seretse Khama International Airport;Gaborone;BW;Botswana;AF;-24.555201;25.9182
+FKYS;Yaoundé Nsimalen International Airport;Yaoundé;CM;Cameroon;AF;3.72256;11.5533
+FNBJ;Dr. Antonio Agostinho Neto International Airport;Luanda (Ícolo e Bengo);AO;Angola;AF;-9.050734;13.499078
+FNLU;Quatro de Fevereiro International Airport;Luanda;AO;Angola;AF;-8.85837;13.2312
+FSIA;Seychelles International Airport;Victoria;SC;Seychelles;AF;-4.67434;55.521801
+FYWH;Hosea Kutako International Airport;Windhoek;NA;Namibia;AF;-22.4799;17.4709
+GCLP;Gran Canaria Airport;Gran Canaria Island;ES;Spain;EU;27.9319;-15.3866
+GCTS;Tenerife Sur Airport;Tenerife;ES;Spain;EU;28.0445;-16.5725
+GMMN;Mohammed V International Airport;Casablanca;MA;Morocco;AF;33.3675;-7.58997
+GOBD;Blaise Diagne International Airport;Dakar;SN;Senegal;AF;14.670878;-17.072829
+GVAC;Amílcar Cabral International Airport;Espargos;CV;Cape Verde;AF;16.7414;-22.9494
+HAAB;Addis Ababa Bole International Airport;Addis Ababa;ET;Ethiopia;AF;8.97789;38.799301
+HKJK;Jomo Kenyatta International Airport;Nairobi;KE;Kenya;AF;-1.318886;36.928233
+HTDA;Julius Nyerere International Airport;Dar es Salaam;TZ;Tanzania;AF;-6.873499;39.207288
+KAFW;Perot Field/Fort Worth Alliance Airport;Fort Worth;US;United States;NA;32.99044;-97.31947
+KATL;Hartsfield Jackson Atlanta International Airport;Atlanta;US;United States;NA;33.6367;-84.428101
+KBFM;Mobile Downtown Airport;Mobile;US;United States;NA;30.626800537100003;-88.06809997559999
+KBOS;Boston Logan International Airport;Boston;US;United States;NA;42.36197;-71.0079
+KBWI;Baltimore/Washington International Thurgood Marshall Airport;Baltimore;US;United States;NA;39.1754;-76.668297
+KCVG;Cincinnati Northern Kentucky International Airport;Cincinnati / Covington;US;United States;NA;39.048801;-84.667801
+KDAB;Daytona Beach International Airport;Daytona Beach;US;United States;NA;29.18255;-81.059464
+KDFW;Dallas Fort Worth International Airport;Dallas-Fort Worth;US;United States;NA;32.896801;-97.038002
+KDJT;President Donald J. Trump International Airport;West Palm Beach;US;United States;NA;26.683201;-80.095596
+KEWR;Newark Liberty International Airport;Newark;US;United States;NA;40.6894;-74.170545
+KFLL;Fort Lauderdale Hollywood International Airport;Fort Lauderdale;US;United States;NA;26.072599;-80.152702
+KFTW;Fort Worth Meacham International Airport;Fort Worth;US;United States;NA;32.819919;-97.360818
+KGYY;Gary/Chicago International Airport;Gary;US;United States;NA;41.617087;-87.413206
+KIAD;Washington Dulles International Airport;Dulles;US;United States;NA;38.9445;-77.455803
+KIAH;George Bush Intercontinental Airport;Houston;US;United States;NA;29.9844;-95.3414
+KIND;Indianapolis International Airport;Indianapolis;US;United States;NA;39.7173;-86.294403
+KJFK;John F. Kennedy International Airport;New York;US;United States;NA;40.639447;-73.779317
+KLAX;Los Angeles International Airport;Los Angeles;US;United States;NA;33.942501;-118.407997
+KLCK;Rickenbacker International Airport;Columbus;US;United States;NA;39.813801;-82.927803
+KMCO;Orlando International Airport;Orlando;US;United States;NA;28.429399490356445;-81.30899810791016
+KMEM;Frederick W. Smith International Airport;Memphis;US;United States;NA;35.043845;-89.97634
+KMIA;Miami International Airport;Miami;US;United States;NA;25.796011;-80.289751
+KMLB;Melbourne Orlando International Airport;Melbourne;US;United States;NA;28.102009;-80.641088
+KORD;Chicago O'Hare International Airport;Chicago;US;United States;NA;41.9786;-87.9048
+KSEA;Seattle–Tacoma International Airport;Seattle;US;United States;NA;47.447943;-122.310276
+KSFO;San Francisco International Airport;San Francisco;US;United States;NA;37.619806;-122.374821
+KTPA;Tampa International Airport;Tampa;US;United States;NA;27.9755;-82.533203
+KTUL;Tulsa International Airport;Tulsa;US;United States;NA;36.197084;-95.886225
+LEBL;Josep Tarradellas Barcelona-El Prat Airport;Barcelona;ES;Spain;EU;41.2971;2.07846
+LEMD;Adolfo Suárez Madrid–Barajas Airport;Madrid;ES;Spain;EU;40.493407;-3.572249
+LEZG;Zaragoza Airport;Zaragoza;ES;Spain;EU;41.666199;-1.04155
+LFBO;Toulouse-Blagnac Airport;Toulouse/Blagnac;FR;France;EU;43.629101;1.36382
+LFLX;Châteauroux Déols airport;Châteauroux;FR;France;EU;46.860221;1.728326
+LFPG;Charles de Gaulle International Airport;Paris (Roissy-en-France, Val-d'Oise);FR;France;EU;49.00896;2.554117
+LFTM;Serres - La Bâtie-Montsaléon Airfield;;FR;France;EU;44.458302;5.72833
+LIMC;Milan Malpensa International Airport;Ferno (VA);IT;Italy;EU;45.6306;8.72811
+LIRF;Rome–Fiumicino Leonardo da Vinci International Airport;Rome;IT;Italy;EU;41.804532;12.251998
+LPLA;Lajes Airport;Praia da Vitória;PT;Portugal;EU;38.761799;-27.090799
+LPMA;Cristiano Ronaldo International Airport;Funchal;PT;Portugal;EU;32.697812;-16.774613
+LPPR;Francisco de Sá Carneiro Airport;Porto;PT;Portugal;EU;41.2481002808;-8.68138980865
+LPPT;Lisbon Humberto Delgado Airport;Lisbon;PT;Portugal;EU;38.7813;-9.13592
+LSZH;Zürich Airport;Zurich;CH;Switzerland;EU;47.458056;8.548056
+LTFM;İstanbul Airport;Istanbul;TR;Turkey;AS;41.274874;28.732136
+MDPC;Punta Cana International Airport;Punta Cana;DO;Dominican Republic;NA;18.567093;-68.364558
+MDSD;Las Américas International Airport;Santo Domingo;DO;Dominican Republic;NA;18.42970085144;-69.668899536133
+MMAA;General Juan N. Álvarez International Airport;Acapulco;MX;Mexico;NA;16.757126;-99.753113
+MMGL;Guadalajara International Airport;Guadalajara;MX;Mexico;NA;20.523342;-103.310108
+MMMX;Mexico City Benito Juárez International Airport;Mexico City;MX;Mexico;NA;19.435822;-99.07033
+MMSM;Felipe Ángeles International Airport;Mexico City;MX;Mexico;NA;19.743824;-99.01507
+MMUN;Cancún International Airport;Cancún;MX;Mexico;NA;21.040817;-86.87347
+MPTO;Tocumen International Airport;Tocumen;PA;Panama;NA;9.07136;-79.383499
+MSLP;El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez;San Salvador (San Luis Talpa);SV;El Salvador;NA;13.44447;-89.055784
+MTCH;Cap Haitien International Airport;Cap Haitien;HT;Haiti;NA;19.725547;-72.20071
+OMAA;Zayed International Airport;Abu Dhabi;AE;United Arab Emirates;AS;24.440966;54.649237
+OMDB;Dubai International Airport;Dubai;AE;United Arab Emirates;AS;25.24979;55.370992
+OMDW;Al Maktoum International Airport;Dubai(Jebel Ali);AE;United Arab Emirates;AS;24.896171;55.16235
+OOMS;Muscat International Airport;Muscat/Seeb;OM;Oman;AS;23.600218;58.285268
+OTHH;Hamad International Airport;Doha;QA;Qatar;AS;25.273056;51.608056
+PANC;Ted Stevens Anchorage International Airport;Anchorage;US;United States;NA;61.179004;-149.992561
+RKSI;Incheon International Airport;Seoul;KR;South Korea;AS;37.469101;126.450996
+SAAR;Rosario Islas Malvinas International Airport;Rosario;AR;Argentina;SA;-32.9036;-60.785
+SABE;Aeroparque Jorge Newbery;Buenos Aires;AR;Argentina;SA;-34.559419;-58.415536
+SACO;Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport;Cordoba;AR;Argentina;SA;-31.312346;-64.208329
+SAEZ;Ezeiza International Airport - Ministro Pistarini;Buenos Aires (Ezeiza);AR;Argentina;SA;-34.8222;-58.5358
+SAME;Governor Francisco Gabrielli International Airport;Mendoza;AR;Argentina;SA;-32.831699;-68.7929
+SARI;Cataratas Del Iguazú International Airport;Puerto Iguazu;AR;Argentina;SA;-25.737301;-54.4734
+SASA;Martín Miguel de Güemes International Airport;Salta;AR;Argentina;SA;-24.856001;-65.486198
+SAWH;Ushuaia - Malvinas Argentinas International Airport;Ushuaia;AR;Argentina;SA;-54.8433;-68.2958
+SAZS;Teniente Luis Candelaria International Airport;San Carlos de Bariloche;AR;Argentina;SA;-41.151199;-71.157501
+SCDA;Diego Aracena International Airport;Iquique;CL;Chile;SA;-20.536273;-70.181373
+SCEL;Comodoro Arturo Merino Benítez International Airport;Santiago;CL;Chile;SA;-33.390252;-70.794697
+SCFA;Andrés Sabella Gálvez International Airport;Antofagasta;CL;Chile;SA;-23.445274;-70.445232
+SEGU;José Joaquín de Olmedo International Airport;Guayaquil;EC;Ecuador;SA;-2.15742;-79.883598
+SEQM;Mariscal Sucre International Airport;Quito;EC;Ecuador;SA;-0.125399;-78.354306
+SGAS;Silvio Pettirossi International Airport;Asunción;PY;Paraguay;SA;-25.240156;-57.519227
+SGES;Guaraní International Airport;Ciudad del Este;PY;Paraguay;SA;-25.4555;-54.843601
+SKAR;El Eden Airport;Armenia;CO;Colombia;SA;4.45278;-75.7664
+SKBO;El Dorado International Airport;Bogota;CO;Colombia;SA;4.70159;-74.1469
+SKBQ;Ernesto Cortissoz International Airport;Barranquilla;CO;Colombia;SA;10.8896;-74.7808
+SKCL;Alfonso Bonilla Aragon International Airport;Cali;CO;Colombia;SA;3.542717;-76.381898
+SKLT;Alfredo Vásquez Cobo International Airport;Leticia;CO;Colombia;SA;-4.191147;-69.942003
+SKRG;Jose Maria Córdova International Airport;Medellín;CO;Colombia;SA;6.16454;-75.4231
+SLCB;Jorge Wilsterman International Airport;Cochabamba;BO;Bolivia;SA;-17.421105;-66.177102
+SLLP;El Alto International Airport;La Paz / El Alto;BO;Bolivia;SA;-16.510272;-68.189416
+SLVR;Viru Viru International Airport;Santa Cruz;BO;Bolivia;SA;-17.6448;-63.135399
+SMJP;Johan Adolf Pengel International Airport;Paramaribo;SR;Suriname;SA;5.45283;-55.187801
+SOCA;Cayenne – Félix Eboué Airport;Matoury;GF;French Guiana;SA;4.819964;-52.361326
+SPJC;Jorge Chávez International Airport;Lima;PE;Peru;SA;-12.0219;-77.114305
+SPSO;Captain Renán Elías Olivera International Airport;Pisco;PE;Peru;SA;-13.7449;-76.220299
+SPZO;Alejandro Velasco Astete International Airport;Cusco;PE;Peru;SA;-13.535699844400002;-71.9387969971
+SULS;Capitan Corbeta CA Curbelo International Airport;Punta del Este;UY;Uruguay;SA;-34.855099;-55.094299
+SUMU;Carrasco General Cesáreo L. Berisso International Airport;Ciudad de la Costa;UY;Uruguay;SA;-34.835647;-56.026497
+SVBL;El Libertador Airbase;;VE;Venezuela;SA;10.183375;-67.55732
+SVMC;La Chinita International Airport;Maracaibo;VE;Venezuela;SA;10.557542;-71.729307
+SVMI;Maiquetía Simón Bolívar International Airport;Maiquetía;VE;Venezuela;SA;10.602214;-66.991174
+SVPR;General Manuel Carlos Piar International Airport;Guyana City;VE;Venezuela;SA;8.28853;-62.760399
+SVVA;Arturo Michelena International Airport;Valencia;VE;Venezuela;SA;10.149733;-67.928398
+SYCJ;Cheddi Jagan International Airport;Georgetown;GY;Guyana;SA;6.49855;-58.254101
+TJBQ;Rafael Hernández International Airport;Aguadilla;PR;Puerto Rico;NA;18.4949;-67.129402
+TJSJ;Luis Munoz Marin International Airport;San Juan;PR;Puerto Rico;NA;18.4394;-66.001801
+TNCA;Queen Beatrix International Airport;Oranjestad;AW;Aruba;NA;12.501056;-70.014281
+TNCC;Hato International Airport;Willemstad;CW;Curaçao;NA;12.1889;-68.959801
+TTPP;Piarco International Airport;Port of Spain;TT;Trinidad and Tobago;NA;10.59535;-61.337568
+UBBB;Heydar Aliyev International Airport;Baku;AZ;Azerbaijan;AS;40.47278;50.050931
+VHHH;Hong Kong International Airport;Hong Kong;HK;Hong Kong;AS;22.31184;113.914862
+VOHY;Begumpet Airport;Hyderabad;IN;India;AS;17.4531;78.467598
+VVNB;Noi Bai International Airport;Hanoi (Soc Son);VN;Vietnam;AS;21.221201;105.806999
+ZBAA;Beijing Capital International Airport;Beijing;CN;China;AS;40.077349;116.596702
+ZSPD;Shanghai Pudong International Airport;Shanghai (Pudong);CN;China;AS;31.1434;121.805

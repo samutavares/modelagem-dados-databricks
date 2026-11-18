@@ -1,0 +1,497 @@
+icao;administrador;tipo_administracao;vigente_desde;fonte
+SBAA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBAC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBAE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBAQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBAR;Aeroportos do Nordeste do Brasil S.A.;Concessão federal;2019-10-09;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2019 - Nordeste
+SBAT;SPE Concessionária Aeroeste Aeroportos S.A.;Concessão federal;2019-10-04;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2019 - Centro-Oeste
+SBAU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBAX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBBE;SPE Novo Norte Aeroportos S.A.;Concessão federal;2023-05-05;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2023 - Norte II
+SBBG;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBBH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBBI;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBBP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBBR;Inframérica Concessionária do Aeroporto de Brasília S.A.;Concessão federal;2012-07-24;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2012 - SBBR
+SBBU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBBV;Concessionária dos Aeroportos da Amazônia S/A;Concessão federal;2021-10-22;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2021 - Norte
+SBBW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCF;Concessionária do Aeroporto Internacional de Confins S.A.;Concessão federal;2014-05-07;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2014 - SBCF
+SBCG;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBCH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCJ;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBCN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBCR;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBCT;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBCX;Prefeitura de Caxias do Sul;Pública;1900-01-01;Prefeitura de Caxias do Sul
+SBCY;SPE Concessionária Aeroeste Aeroportos S.A.;Concessão federal;2019-10-04;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2019 - Centro-Oeste
+SBCZ;Concessionária dos Aeroportos da Amazônia S/A;Concessão federal;2021-10-22;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2021 - Norte
+SBDB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBDN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBDO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBEG;Concessionária dos Aeroportos da Amazônia S/A;Concessão federal;2021-10-22;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2021 - Norte
+SBEK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBFI;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBFL;Concessionária do Aeroporto Internacional de Florianópolis S.A.;Concessão federal;2017-08-31;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2017 - SBFL
+SBFN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBFS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBFZ;Fraport Brasil S.A. Aeroporto de Fortaleza;Concessão federal;2017-08-29;ANAC, Concessoes_Aeroportos.csv, contrato 004/ANAC/2017 - SBFZ
+SBGL;RIOgaleão (Concessionária Aeroporto Rio de Janeiro S.A.);Concessão federal;2014-05-07;ANAC, Concessoes_Aeroportos.csv
+SBGM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBGO;Concessionária do Bloco Central S.A;Concessão federal;2021-11-24;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2021 - Central
+SBGR;Concessionária do Aeroporto Internacional de Guarulhos S.A.;Concessão federal;2012-07-11;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2012 - SBGR
+SBGV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBGW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBHT;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBIC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBIH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBIL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBIP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBIZ;Concessionária do Bloco Central S.A;Concessão federal;2021-11-24;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2021 - Central
+SBJA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBJD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBJE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBJF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBJH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBJI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBJP;Aeroportos do Nordeste do Brasil S.A.;Concessão federal;2019-10-09;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2019 - Nordeste
+SBJR;PRS Aeroportos S.A.;Concessão federal;2023-05-24;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2023 - Aviação Geral
+SBJU;Aeroportos do Nordeste do Brasil S.A.;Concessão federal;2019-10-09;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2019 - Nordeste
+SBJV;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBKG;Aeroportos do Nordeste do Brasil S.A.;Concessão federal;2019-10-09;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2019 - Nordeste
+SBKP;Aeroportos Brasil - Viracopos S.A.;Concessão federal;2012-07-11;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2012 - SBKP
+SBLE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBLJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBLO;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBMA;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBMD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBME;Aeroportos do Sudeste do Brasil S.A.;Concessão federal;2019-10-03;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2019 - Sudeste
+SBMG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBMI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBMK;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBML;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBMO;Aeroportos do Nordeste do Brasil S.A.;Concessão federal;2019-10-09;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2019 - Nordeste
+SBMQ;SPE Novo Norte Aeroportos S.A.;Concessão federal;2023-05-05;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2023 - Norte II
+SBMS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBMT;PRS Aeroportos S.A.;Concessão federal;2023-05-24;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2023 - Aviação Geral
+SBMY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBNF;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBNM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBNV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBOI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBPA;Fraport Brasil S.A. Aeroporto de Porto Alegre;Concessão federal;2017-08-29;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2017 - SBPA
+SBPB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBPC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBPF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBPG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBPJ;Concessionária do Bloco Central S.A;Concessão federal;2021-11-24;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2021 - Central
+SBPK;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBPL;Concessionária do Bloco Central S.A;Concessão federal;2021-11-24;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2021 - Central
+SBPO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBPP;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBPS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBPV;Concessionária dos Aeroportos da Amazônia S/A;Concessão federal;2021-10-22;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2021 - Norte
+SBPW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBRB;Concessionária dos Aeroportos da Amazônia S/A;Concessão federal;2021-10-22;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2021 - Norte
+SBRD;SPE Concessionária Aeroeste Aeroportos S.A.;Concessão federal;2019-10-04;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2019 - Centro-Oeste
+SBRF;Aeroportos do Nordeste do Brasil S.A.;Concessão federal;2019-10-09;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2019 - Nordeste
+SBRJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBRP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBSG;ACI do Brasil S.A;Concessão federal;2012-01-24;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2011 - SBSG
+SBSI;SPE Concessionária Aeroeste Aeroportos S.A.;Concessão federal;2019-10-04;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2019 - Centro-Oeste
+SBSJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBSL;Concessionária do Bloco Central S.A;Concessão federal;2021-11-24;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2021 - Central
+SBSM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBSN;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBSO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBSP;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBSR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBSV;Concessionária do Aeroporto de Salvador S.A.;Concessão federal;2017-08-31;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2017 - SBSV
+SBTB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBTC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBTD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBTE;Concessionária do Bloco Central S.A;Concessão federal;2021-11-24;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2021 - Central
+SBTF;Concessionária dos Aeroportos da Amazônia S/A;Concessão federal;2021-10-22;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2021 - Norte
+SBTG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBTK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBTT;Concessionária dos Aeroportos da Amazônia S/A;Concessão federal;2021-10-22;ANAC, Concessoes_Aeroportos.csv, contrato 001/ANAC/2021 - Norte
+SBTU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBUA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBUF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBUG;Concessionária do Bloco Sul S.A;Concessão federal;2021-11-29;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2021 - Sul
+SBUL;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBUR;Bloco de Onze Aeroportos do Brasil S.A.;Concessão federal;2023-06-05;ANAC, Concessoes_Aeroportos.csv, contrato 002/ANAC/2023 - SP/MS/PA/MG
+SBVC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBVG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBVH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SBVT;Aeroportos do Sudeste do Brasil S.A.;Concessão federal;2019-10-03;ANAC, Concessoes_Aeroportos.csv, contrato 003/ANAC/2019 - Sudeste
+SBZM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SD5Q;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDAA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDAD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDAE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDAG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDAI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDAM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDBB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDBK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDBY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDCA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDCG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDCO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDDN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDDR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDEP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDET;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDFD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDFX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDGC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDH2;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDIG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDIM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDIV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDIY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDJC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDJO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDJV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDK7;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDKJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDKK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDLL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDLP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDLY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDMH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDMJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDMO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDNH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDNM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDNO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDOU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDOV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDOW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDPD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDPE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDPN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDPV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDPW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDPY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDRK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDRR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDRS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDSC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDTB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDTF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDTI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDTK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDTP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDUB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDUN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDUQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDVE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDVG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDWQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDXF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDXJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SDZG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SI68;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SIBU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SIBY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SIBZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SILC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SIMK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SIZX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJ4Y;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJAU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJBY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJGU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJO7;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJO9;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJOG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJQN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJRG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJTS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJVO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJXI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SJZA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SN3Y;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SN6L;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNAX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNBX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNCA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNCP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNCS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNCT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNCX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNCZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SND4;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SND6;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNDC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNDT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNDV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNEB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNED;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNEE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNFE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNFO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNFU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNFX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNGA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNGG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNGI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNGN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNGX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNHS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNIU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNJB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNJK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNJM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNJP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNJQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNJR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNKD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNKF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNKI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNKN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNLI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNLN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNLO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNMZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNNE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNNU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNOE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNOF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNOS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNOX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNPY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNQD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNQG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNQU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNQV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNQX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNRD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNRM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNRP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNRU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNRX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNRZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNSE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNSG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNSI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNSM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNSS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNTF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNTI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNTO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNTQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNTS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNUB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNUH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNUI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNUN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNVB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNVC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNVD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNVI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNVS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNWC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNWS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNXB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNXQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNYA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNYB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNYE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNYU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNZA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SNZR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSAB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSAE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSAK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSAN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSAP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSAQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSBG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSBL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSBN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSCT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSEE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSEP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSER;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSEZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSFB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSFL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSGA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSGB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSGG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSGW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSGY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSHZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSIE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSIJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSIM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSIQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSIR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSJA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSJI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSJK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSKG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSKK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSKM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSKS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSKU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSKW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSKZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSLG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSLN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSLO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSLT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSMJ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSMR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSMT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSNB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSNG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSNH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSNP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSNQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSOE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSOG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSOI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSOL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSOS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSPG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSPI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSPL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSPM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSPN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSPS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSPT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSQC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSQP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSQT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSRE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSRF;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSRG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSRS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSRU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSRZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSSB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSSC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSSD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSSG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSSS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSST;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSSZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSTB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSTE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSUM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSUV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSVI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSVL;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSVN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSWS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSXX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SSZR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWBC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWBE;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWBG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWBR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWCA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWCB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWCQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWCZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWDM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWDN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWEI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWEK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWFN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWFR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWFX;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWGI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWGN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWHP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWHT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWII;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWIQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWJN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWJW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWKC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWKO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWKQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWKT;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWLB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWLC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWME;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWMW;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWNH;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWNK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWNQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWNS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWOB;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWPG;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWPI;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWPK;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWPM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWPR;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWPY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWPZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWTO;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWTP;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWTS;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWTY;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWUA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWUD;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWUZ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWVC;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWWA;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWWU;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWXM;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWXQ;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWXV;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
+SWYN;Não concedido;Pública;1900-01-01;sem contrato de concessão na ANAC
