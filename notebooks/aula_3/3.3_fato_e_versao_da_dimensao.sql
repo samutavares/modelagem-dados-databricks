@@ -33,7 +33,7 @@ INSERT INTO bronze.voos_vra
 SELECT *, _metadata.file_name, _metadata.file_modification_time
 FROM read_files(
   '/Volumes/workspace/bronze/arquivos/vra/VRA_202610.csv',
-  format => 'csv', sep => ';', header => true, skipRows => 1,
+  format => 'csv', sep => ';', header => false, skipRows => 2,
   schema => 'icao_empresa STRING, numero_voo STRING, codigo_di STRING, codigo_tipo_linha STRING,
              icao_origem STRING, icao_destino STRING, partida_prevista STRING, partida_real STRING,
              chegada_prevista STRING, chegada_real STRING, situacao_voo STRING, codigo_justificativa STRING'

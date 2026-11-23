@@ -35,8 +35,9 @@ def voos_vra():
         spark.readStream.format("cloudFiles")
         .option("cloudFiles.format", "csv")
         .option("sep", ";")
-        .option("header", "true")
-        .option("skipRows", 1)
+        # o cabeçalho é "Número Voo", não numero_voo: com header, o schema casa pelo nome e a coluna nasce nula
+        .option("header", "false")
+        .option("skipRows", 2)
         .schema(ESQUEMA_VRA)
         .load(f"{VOLUME}/vra/")
         .select(

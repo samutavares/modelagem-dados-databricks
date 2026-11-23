@@ -161,7 +161,8 @@ Roteiro por tópicos:
   (Free Edition, sem custo, com cota).
 - **1.2** Catálogo `workspace`, schemas bronze, silver e gold, volume. Upload de um arquivo pela interface e cópia
   dos demais pelo notebook. Primeira leitura com `read_files`, que bate na parede (a linha "Atualizado em" vira
-  cabeçalho). `skipRows`, schema explícito em texto, `_metadata` para arquivo e horário. Custo e cota.
+  cabeçalho). O cabeçalho real (`Número Voo`) não é o nome do contrato: `header => false` e `skipRows => 2`,
+  schema explícito em texto, `_metadata` para arquivo e horário. Custo e cota.
 - **1.3** Perfil de cada código (DI, tipo de linha, situação), o `'null'` em texto, a fração `.100000000` nos
   horários, mês por arquivo (voo de um mês no arquivo do outro).
 - **1.4** Chaves candidatas, contagem distinta, as 10 repetições, o conflito AZU 9506. Decisão: etapa de voo
@@ -371,7 +372,7 @@ ID-video5.6-alura-Conclusão
   diante.
 - **Código não executado no Databricks.** Os notebooks e o pipeline foram escritos sem rodar no workspace. Os
   números desta página vêm dos arquivos, calculados fora do Databricks. Testar tudo antes de gravar, em especial:
-  - `skipRows` do `read_files` com a linha "Atualizado em";
+  - `read_files` do VRA com `header => false` e `skipRows => 2` (com `header => true` o schema casa pelo nome e `numero_voo` nasce nula);
   - trocar a `silver.voos` de tabela de streaming para materialized view no mesmo pipeline (pode exigir apagar a
     tabela ou full refresh);
   - `except_column_list` do AUTO CDC junto com a coluna de sequência;

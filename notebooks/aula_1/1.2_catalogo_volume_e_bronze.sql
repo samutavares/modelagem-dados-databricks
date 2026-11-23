@@ -92,6 +92,9 @@ LIMIT 5;
 -- MAGIC - nomes sem acento, espaço nem parêntese, declarados pelo projeto;
 -- MAGIC - tudo como texto: a bronze guarda o que veio, mesmo o que não converte;
 -- MAGIC - de onde e quando a linha chegou: `_arquivo` e `_recebido_em`.
+-- MAGIC
+-- MAGIC O cabeçalho do arquivo é `Número Voo`, não `numero_voo`. Com `header => true` o `read_files` casa pelo
+-- MAGIC nome e a coluna nasce nula. A carga ignora o cabeçalho e pula as duas primeiras linhas.
 
 -- COMMAND ----------
 
@@ -104,7 +107,7 @@ SELECT
   _metadata.file_modification_time AS _recebido_em
 FROM read_files(
   '/Volumes/workspace/bronze/arquivos/vra/',
-  format => 'csv', sep => ';', header => true, skipRows => 1,
+  format => 'csv', sep => ';', header => false, skipRows => 2,
   schema => 'icao_empresa STRING, numero_voo STRING, codigo_di STRING, codigo_tipo_linha STRING,
              icao_origem STRING, icao_destino STRING, partida_prevista STRING, partida_real STRING,
              chegada_prevista STRING, chegada_real STRING, situacao_voo STRING, codigo_justificativa STRING'
